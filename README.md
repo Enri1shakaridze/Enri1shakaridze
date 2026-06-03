@@ -2,13 +2,13 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Junior+Developer;GOA+Academy+Student;Responsive+Web+Design)
 
----
+
 
 ### 👨‍💻 About Me
 
 I am a Junior Developer from Georgia. *I am currently studying at GOA Academy*. I focus on building responsive web designs and constantly improving my frontend programming skills to create exciting projects.
 
----
+
 
 ### 🛠️ Tech Stack & Skills
 
