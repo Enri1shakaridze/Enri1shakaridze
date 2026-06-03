@@ -1,7 +1,6 @@
 # 👋 Hi, I am Enrike 🚀
 <br>
-# 💫 About Me:
- About Me<br>I am a Junior Developer from Georgia. I am currently studying at GOA Academy. I focus on building responsive web designs and constantly improving my frontend programming skills to create exciting projects.<br><br>
+💫 About Me:<br>I am a Junior Developer from Georgia. I am currently studying at GOA Academy. I focus on building responsive web designs and constantly improving my frontend programming skills to create exciting projects.<br><br>
 
 
 ## 🌐 Socials:
